@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {Component} from 'react';
 
 import {Cards, Chart, CountryPicker} from './components';
 import Styles from './App.module.css';
